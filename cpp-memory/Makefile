@@ -1,6 +1,6 @@
 EXE = main
 OBJS = main.o Cube.o
-CLEAN_RM =
+CLEAN_RM = rm -d -r
 
 include ../_make/generic.mk
 

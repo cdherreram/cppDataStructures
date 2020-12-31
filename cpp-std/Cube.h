@@ -10,7 +10,7 @@
 namespace uiuc {
   class Cube {
     public:
-      double getVolume();
+      double getVolume();c
       double getSurfaceArea();
       void setLength(double length);
 

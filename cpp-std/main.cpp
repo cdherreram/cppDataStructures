@@ -1,4 +1,4 @@
-/**
+VC/**
  * Simple C++ making use of std::cout and a `Cube` class.
  * 
  * @author
